@@ -263,7 +263,7 @@
       class:bg-blue-700={pages.length === 0 || saving || !pdfFile}>
       {saving ? 'Saving' : 'Save'}
     </button>
-    <a href="https://github.com/ShizukuIchi/pdf-editor">
+    <a href="https://github.com/michaelmior/pdf-editor">
       <img
         src="/GitHub-Mark-32px.png"
         alt="A GitHub icon leads to personal GitHub page" />
